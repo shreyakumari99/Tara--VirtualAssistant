@@ -44,3 +44,4 @@ This assistant can **talk, think, remember, and be customized** — just like yo
 ### 🔹 Deployment
 - Render (for both frontend & backend)
 - Cloudinary (for image hosting)
+
